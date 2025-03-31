@@ -1,4 +1,4 @@
-Trading System
+##Trading System
 
 A trading system built with React and Vite, featuring mock market data.
 
@@ -40,7 +40,7 @@ A trading system built with React and Vite, featuring mock market data.
 
    The application should be available at `http://localhost:5173/`.
 
-## 🛠 Backend Setup (If Applicable)
+## 🛠 Backend Setup 
 
 1. Navigate to the backend directory:
    ```sh
@@ -52,18 +52,15 @@ A trading system built with React and Vite, featuring mock market data.
    ```
 3. Start the backend server:
    ```sh
-   node server.js
+   npm start
    ```
-   The backend should be running at `http://localhost:5000/`.
+   The backend should be running at `http://localhost:3001/`.
 
 ## 🔧 Configuration
 
-- Environment variables can be set in a `.env` file (if needed).
-- Update API endpoints inside `src/config.js` if required.
+- Update API endpoints inside `src/backend/service.js` if required.
 
-## 📜 License
 
-This project is licensed under the MIT License.
 
 ## 🤝 Contributing
 
@@ -71,61 +68,8 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 ## 📞 Contact
 
-For any inquiries, reach out at: [Mahesh Patangare](https://github.com/Maheshphatangare).
+For any inquiries, reach out at: [Mahesh Phatangare](https://github.com/Maheshphatangare).
 
 
 
-Interactive components for stock analysis
 
-Mock data integration
-
-📦 Installation
-
-Clone the Repository
-
-git clone https://github.com/Maheshphatangare/trading-system.git
-cd trading-system
-
-Install Dependencies
-
-npm install
-
-Run the Development Server
-
-npm run dev
-
-The application should be available at http://localhost:5173/.
-
-🛠 Backend Setup (If Applicable)
-
-Navigate to the backend directory:
-
-cd backend
-
-Install backend dependencies:
-
-npm install
-
-Start the backend server:
-
-node server.js
-
-The backend should be running at http://localhost:5000/.
-
-🔧 Configuration
-
-Environment variables can be set in a .env file (if needed).
-
-Update API endpoints inside src/config.js if required.
-
-📜 License
-
-This project is licensed under the MIT License.
-
-🤝 Contributing
-
-Pull requests are welcome. For major changes, open an issue first to discuss what you’d like to change.
-
-📞 Contact
-
-For any inquiries, reach out at: Mahesh Patangare.
