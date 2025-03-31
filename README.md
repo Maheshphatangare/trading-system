@@ -1,4 +1,4 @@
-## Trading System
+## Trading-System
 
 A trading system built with React and Vite, featuring mock market data.
 
