@@ -69,7 +69,8 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 ## 📞 Contact
 
 For any inquiries, reach out at: [Mahesh Phatangare](https://github.com/Maheshphatangare).
-![Trading System Preview](https://raw.githubusercontent.com/Maheshphatangare/trading-system/main/public/Screenshot 2025-03-31 084148.png)
+![Trading System Preview](https://raw.githubusercontent.com/Maheshphatangare/trading-system/main/public/ss1.png)
+
 
 
 
